@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:700|Roboto:100,300,700');
+
+background-image: 
+url("../../media/examples/lizard.png");
+position: 0 0;
+repeat: no-repeat;
+size: cover;
+
+.header {
+  height: 650px;
+}
+
+.nav-bar {
+  color:darkblue
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font: Roboto;
+  size: 10px.;
+  line height: 3.5em.;
+  weight: 300.
+}
+
+
+/* CSS multiselector example */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: Roboto;
+}
+
+h1{
+Size: 9em;
+Align: center;
+Transform: uppercase;
+}
+
+h2 {
+Size: 5em;
+Align: center;
+Transform: uppercase;
+line-height: 4m;
+  color: white;
+  text-shadow: #020819 8px -20px 9px;
+}
+
+h3{
+Size: 4.2em;
+Align: center;
+Line height: 1em;
+}
+
+h4{
+  Size: 1.5em;
+Letter spacing: 0.4px;
+Line height: 1em;
+}
+
+h5{
+  Size: 1.2em;
+Line height: 1em;
+}
+
+
+
+
+body{
+font: Roboto;
+size: 10px;
+line height: 3.5em;
+weight: 300;
+  padding: 10px on all sides;
+}
+
+.slot-form-container {
+  width: 40%
+  margin-top: 18px;
+  margin-bottom: 0;
+  margin-right: auto;
+  margin-left: auto;
+  font-size: 1.5em;
+text-align: center;
+}
+
+input {
+height: 20px;
+outline: none;
+padding: 10px on all sides;
+width: 100%.
+}
+
+select {
+  height: 20px;
+outline: none;
+padding: 10px on all sides;
+width: 100%.
+}
+
+div {
+  background-color: #00d1ae;
+  border: 1px solid #17212e;
+  padding: 10px;
+  width: 170px;
+  
+}
